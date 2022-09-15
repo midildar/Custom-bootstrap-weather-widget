@@ -1,0 +1,16 @@
+body{
+    background-color: #9e9ca9;
+    padding: 5%;
+}
+.container{
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.temp_col{
+    flex-direction: columns;
+}
+.storm_img{
+    height: 120px;
+    width: 120px;
+    padding-bottom: 12px;
+}
